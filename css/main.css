@@ -3,6 +3,7 @@
     margin: auto;
 }
 
+/* Header */
 .logo {
     background-image: url(../img/pattern.png);
     background-color: rgb(85, 181, 241);
@@ -19,7 +20,7 @@ h1 {
     margin-bottom: 1px;
 }
 
-span {
+header span {
     color: lightgrey;
 }
 
@@ -30,3 +31,16 @@ span {
 #date {
     font-size: 12px;
 }
+
+/* Main */
+
+.Tim {
+    width: auto;
+    margin-top: 20px;
+    height: 250px;
+}
+
+main span {
+    font-size: 12px;
+}
+
