@@ -44,3 +44,28 @@ main span {
     font-size: 12px;
 }
 
+.text span {
+    background-color: yellow;
+    font-size: inherit;
+}
+
+table {
+    margin: 25px auto;
+    border-collapse: collapse;
+}
+
+th {
+    text-align: left;
+    width: 30%;
+}
+
+thead tr {
+    background-color: rgb(38, 172, 255);
+}
+
+.colored {
+    background-color: rgb(130, 200, 243);
+}
+
+
+
