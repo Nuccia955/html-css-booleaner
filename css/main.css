@@ -67,5 +67,32 @@ thead tr {
     background-color: rgb(130, 200, 243);
 }
 
+h4 {
+    color: lightslategrey;
+}
 
+.link {
+    width: 250px;
+    height: 150px;    
+    margin-top: 20px;
+}
+
+#monitor {
+    background-image: url(../img/monitor.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#graph {
+    background-image: url(../img/graph.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+a > h3 {
+    color: white;
+    text-decoration: none;
+    padding-top: 5px;
+    padding-left: 5px;
+}
 
